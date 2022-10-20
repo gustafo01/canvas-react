@@ -1,1 +1,1 @@
-# canvas-react
+# canvas-react-typeScript
